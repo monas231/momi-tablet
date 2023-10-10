@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/sunflower">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:background="@color/white"
+            app:layout_constraintTop_toTopOf="@+id/ivBi"
+            app:layout_constraintBottom_toBottomOf="@+id/ivBi"/>
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/ivBi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/tvAppName"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="58dp"
+            app:layout_constraintVertical_chainStyle="packed"
+            android:src="@drawable/img_block"/>
+
+        <TextView
+            android:id="@+id/tvAppName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:gravity="center_horizontal"
+            android:text="@string/block_content"
+            android:textColor="#000000"
+            android:textSize="42.5sp"
+            android:textStyle="normal"
+            app:layout_constraintBottom_toTopOf="@id/tv_blocked"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/ivBi" />
+
+        <TextView
+            android:id="@+id/tv_blocked"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:textSize="26.5sp"
+            app:layout_constraintTop_toBottomOf="@id/tvAppName"
+            app:layout_constraintBottom_toTopOf="@id/tv_why"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="14.5dp"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            android:textColor="#434343"
+            android:lineSpacingExtra="17sp"
+            android:gravity="center_horizontal"
+            android:text="@string/content_blocked"/>
+
+        <TextView
+            android:id="@+id/tv_why"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:textSize="26.5sp"
+            app:layout_constraintTop_toBottomOf="@id/tv_blocked"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/tv_dismiss"
+            android:layout_marginTop="14.5dp"
+            android:textColor="#007dbc"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:lineSpacingExtra="10sp"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:gravity="center_horizontal"
+            tools:text="sdfadfljalsdsadfsdaffjkjsadfljlasdjfklasdjfljasdfjkjaskdfjkajsdfjklasjkdfjklasjdfljasdfjklasdfjlasdfljklasdjfsdfadfljalsdsadfsdaffjkjsadfljlasdjfklasdjfljasdfjkjaskdfjkajsdfjklasjkdfjklasjdfljasdfjklasdfjlasdfljklasdjf"
+            />
+
+        <TextView
+            android:id="@+id/tv_dismiss"
+            android:layout_width="430dp"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            app:layout_constraintTop_toBottomOf="@id/tv_why"
+            app:layout_constraintBottom_toTopOf="@id/tvCopyRights"
+            android:textSize="26.5sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textColor="#1b1b1b"
+            android:layout_marginTop="37dp"
+            android:background="@drawable/round_white_22"
+            android:lineSpacingExtra="17sp"
+            android:gravity="center_horizontal"
+            android:text="3 초 후 해제됩니다."/>
+
+        <ImageView
+            android:id="@+id/tvCopyRights"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/momilogo"
+            app:layout_constraintTop_toBottomOf="@id/tv_dismiss"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginTop="30dp"
+            />
+
+        <ImageButton
+            android:id="@+id/btnClose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:padding="22dp"
+            android:background="#00000000"
+            android:src="@drawable/large_x"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

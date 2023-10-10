@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "658035130752",
+    "project_id": "momi-eclean-smart",
+    "storage_bucket": "momi-eclean-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658035130752:android:03e34cf97d516d0185c165",
+        "android_client_info": {
+          "package_name": "kr.co.jness.momi.eclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658035130752-35abv4t408stmrn7k6grt3qvjm9j4hek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.jness.momi.eclean",
+            "certificate_hash": "3508ad0d1e0f0f3abd2d144719ac7e43745b4cf2"
+          }
+        },
+        {
+          "client_id": "658035130752-frjv5fsmsa77qppf0gt25la7fpohmjkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.jness.momi.eclean",
+            "certificate_hash": "2a49b138d661268d286e7aae19d53073c34b5290"
+          }
+        },
+        {
+          "client_id": "658035130752-megp7f01pmhc8s4ai46b8p94p7jvevah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.jness.momi.eclean",
+            "certificate_hash": "930ef968a67d7289e912c49cc606a87a0fe80334"
+          }
+        },
+        {
+          "client_id": "658035130752-m0lmopinbkm2u9ahmg4lvn9tjuir7aso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkUHkUHEIvXhV0yW_93jEh2q8ZUjcojIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658035130752-m0lmopinbkm2u9ahmg4lvn9tjuir7aso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="main_title_ratio">0.65</dimen>
+    <dimen name="dp_1">1dp</dimen>
+</resources>

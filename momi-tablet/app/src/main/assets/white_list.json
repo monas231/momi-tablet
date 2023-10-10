@@ -1,0 +1,2753 @@
+[
+  {
+    "info": "office.jbedu.kr/jbbae"
+  },
+  {
+    "info": "lib.jbe.go.kr/bec/index.do"
+  },
+  {
+    "info": "jbedu.kr/index.jbedu"
+  },
+  {
+    "info": "office.jbedu.kr/jise"
+  },
+  {
+    "info": "jbstudy.kr/index.go"
+  },
+  {
+    "info": "office.jbedu.kr/human"
+  },
+  {
+    "info": "jbe.go.kr/change/index.jbe"
+  },
+  {
+    "info": "office.jbedu.kr/afterschool"
+  },
+  {
+    "info": "satp.jbe.go.kr/main.jsp"
+  },
+  {
+    "info": "jbe.go.kr/gibu/index.jbe"
+  },
+  {
+    "info": "wee.go.kr/home/main/main.do"
+  },
+  {
+    "info": "jbe.go.kr/eduworker/index.jbe"
+  },
+  {
+    "info": "getsw.jbe.go.kr/"
+  },
+  {
+    "info": "office.jbedu.kr/facility-g"
+  },
+  {
+    "info": "school.jbedu.kr/scholarship"
+  },
+  {
+    "info": "mped.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "ysed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "sced.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "njed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "gyed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "dyed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "gsed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "kred.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "ghed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "bsed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "hsed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "jhed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "gjed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "hned.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "yaed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "maed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "hped.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "yged.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "jsed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "wded.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "jded.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "saed.jne.go.kr/demo/main_002.jsp"
+  },
+  {
+    "info": "jnei.go.kr/jneinew/index.do"
+  },
+  {
+    "info": "jeti.da.jne.kr/user/indexMain.action?siteId=jeti_da"
+  },
+  {
+    "info": "jnstudy.kr/index.go"
+  },
+  {
+    "info": "jnsei.da.jne.kr/user/indexMain.action?siteId=jnsei"
+  },
+  {
+    "info": "jnsei.da.jne.kr/user/indexMain.action?siteId=jnseia_da"
+  },
+  {
+    "info": "jnesafety.da.jne.kr/user/indexMain.action?siteId=jnseist_da"
+  },
+  {
+    "info": "jnsei.da.jne.kr/user/indexMain.action?siteId=wolchul_da"
+  },
+  {
+    "info": "jnsei.da.jne.kr/user/indexMain.action?siteId=yudal_da"
+  },
+  {
+    "info": "baekun.da.jne.kr/user/indexMain.action?siteId=baekun_da"
+  },
+  {
+    "info": "jnsei.da.jne.kr/user/indexMain.action?siteId=Songho"
+  },
+  {
+    "info": "jnsei.da.jne.kr/user/indexMain.action?siteId=jirisan_da"
+  },
+  {
+    "info": "jnsei.da.jne.kr/user/indexMain.action?siteId=narodo_da"
+  },
+  {
+    "info": "jsecc.jne.go.kr/index.es?sid=c2"
+  },
+  {
+    "info": "jseco.jne.go.kr/index.es?sid=d4"
+  },
+  {
+    "info": "jslib.jne.go.kr/index.es?sid=b8"
+  },
+  {
+    "info": "mplib.jne.go.kr/index.es?sid=a2"
+  },
+  {
+    "info": "njlib.jne.go.kr/index.es?sid=a3"
+  },
+  {
+    "info": "jncce.da.jne.kr/user/indexMain.action?siteId=jnse_da"
+  },
+  {
+    "info": "greeni.da.jne.kr/user/indexMain.action?siteId=greeni_da"
+  },
+  {
+    "info": "jiei.da.jne.kr/user/indexMain.action?siteId=jiei_da"
+  },
+  {
+    "info": "gylife.jne.go.kr/index.es?sid=c3"
+  },
+  {
+    "info": "ghlife.jne.go.kr/index.es?sid=c4"
+  },
+  {
+    "info": "iedu.da.jne.kr/user/indexMain.action?siteId=iedu"
+  },
+  {
+    "info": "yalib.jne.go.kr/index.es?sid=b4"
+  },
+  {
+    "info": "nplib.jne.go.kr/index.es?sid=a4"
+  },
+  {
+    "info": "bslib.jne.go.kr/index.es?sid=a8"
+  },
+  {
+    "info": "hslib.jne.go.kr/index.es?sid=b1"
+  },
+  {
+    "info": "malib.jne.go.kr/index.es?sid=b5"
+  },
+  {
+    "info": "hplib.jne.go.kr/index.es?sid=b6"
+  },
+  {
+    "info": "yglib.jne.go.kr/index.es?sid=b7"
+  },
+  {
+    "info": "jhlib.jne.go.kr/index.es?sid=b2"
+  },
+  {
+    "info": "hnlib.jne.go.kr/index.es?sid=b3"
+  },
+  {
+    "info": "jdlib.jne.go.kr/index.es?sid=b9"
+  },
+  {
+    "info": "bglib.jne.go.kr/index.es?sid=a9"
+  },
+  {
+    "info": "gylib.jne.go.kr/index.es?sid=a5"
+  },
+  {
+    "info": "grlib.jne.go.kr/index.es?sid=a7"
+  },
+  {
+    "info": "dylib.jne.go.kr/index.es?sid=a6"
+  },
+  {
+    "info": "gslib.jne.go.kr/index.es?sid=c1"
+  },
+  {
+    "info": "gen.go.kr/main/main.php"
+  },
+  {
+    "info": "food.gen.go.kr/main/main.php"
+  },
+  {
+    "info": "hakbumo.gen.go.kr/"
+  },
+  {
+    "info": "forteacher.gen.go.kr/main/main.php"
+  },
+  {
+    "info": "sesc.gen.go.kr/main/main.php"
+  },
+  {
+    "info": "gibu.gen.go.kr/wcms/"
+  },
+  {
+    "info": "dongbu.gen.go.kr/"
+  },
+  {
+    "info": "seobu.gen.go.kr/"
+  },
+  {
+    "info": "gice.gen.go.kr/"
+  },
+  {
+    "info": "eduup.gen.go.kr/index.go"
+  },
+  {
+    "info": "yec.gen.go.kr/main/main.php"
+  },
+  {
+    "info": "lib.gen.go.kr/student/"
+  },
+  {
+    "info": "gsfa.gen.go.kr/2013/"
+  },
+  {
+    "info": "lib.gen.go.kr/songjung/"
+  },
+  {
+    "info": "geris.gen.go.kr/"
+  },
+  {
+    "info": "iedu.gen.go.kr/"
+  },
+  {
+    "info": "gjmtc.gen.go.kr/"
+  },
+  {
+    "info": "malangmalang.com/pubhwp"
+  },
+  {
+    "info": "i-nuri.go.kr/main/index.do"
+  },
+  {
+    "info": "gwangju.go.kr/arribada/"
+  },
+  {
+    "info": "kua.go.kr/uaptm010/selectMain.do"
+  },
+  {
+    "info": "eduvision.go.kr/OpinionList.do"
+  },
+  {
+    "info": "clean-hakwon.moe.go.kr/"
+  },
+  {
+    "info": "spam.kisa.or.kr/integration/main.do"
+  },
+  {
+    "info": "bigdata.epeople.go.kr/bigdata/bigMainPage.npaid"
+  },
+  {
+    "info": "eduinfo.go.kr/portal/main.do"
+  },
+  {
+    "info": "bokjiro.go.kr/ssis-teu/index.do"
+  },
+  {
+    "info": "gj15886546.org/#1"
+  },
+  {
+    "info": "daitda.or.kr/"
+  },
+  {
+    "info": "cuz.schoolkeepa.or.kr/"
+  },
+  {
+    "info": "schoolhealth.kr/"
+  },
+  {
+    "info": "okeis.moe.go.kr/root/index.do"
+  },
+  {
+    "info": "schoolsafe.kr/"
+  },
+  {
+    "info": "kdream.or.kr/"
+  },
+  {
+    "info": "edunews.co.kr/"
+  },
+  {
+    "info": "schoolbus.ssif.or.kr/sb/index.html"
+  },
+  {
+    "info": "madang.study.go.kr/index.go"
+  },
+  {
+    "info": "pd.study.go.kr/index.go"
+  },
+  {
+    "info": "gj1388.or.kr/index.php"
+  },
+  {
+    "info": "schoolinfo.go.kr/Main.do"
+  },
+  {
+    "info": "2040gjplan.kr/gjplan/"
+  },
+  {
+    "info": "gj.nec.go.kr/gj/bbs/B0000265/view.do?nttId=169498&menuNo=600007&category1=gj&category2=&deleteCd=0&pageIndex=1"
+  },
+  {
+    "info": "consumer.go.kr/consumer/index.do"
+  },
+  {
+    "info": "gjstory.or.kr/"
+  },
+  {
+    "info": "nec.go.kr/site/nec/main.do"
+  },
+  {
+    "info": "pipc.go.kr/np/"
+  },
+  {
+    "info": "gov.kr/portal/orgInfo?Mcode=11040"
+  },
+  {
+    "info": "cyber1388.kr:447/"
+  },
+  {
+    "info": "kead.or.kr/view/service/service04_17_01.jsp"
+  },
+  {
+    "info": "open.gdoc.go.kr/index.do"
+  },
+  {
+    "info": "policy.nl.go.kr/"
+  },
+  {
+    "info": "clean.go.kr/index.es?sid=a1"
+  },
+  {
+    "info": "gwangju.go.kr/intro/index.html"
+  },
+  {
+    "info": "kopico.go.kr/main/main.do"
+  },
+  {
+    "info": "gen.go.kr/sub/page.php?page_code=civil_07_06"
+  },
+  {
+    "info": "idea.epeople.go.kr/idea/index.npaid"
+  },
+  {
+    "info": "lofin.mois.go.kr/portal/main.do"
+  },
+  {
+    "info": "helpcall.mnd.mil.kr/mbshome/mbs/helpcall2/index.jsp"
+  },
+  {
+    "info": "mogef.go.kr/"
+  },
+  {
+    "info": "hrdb.go.kr/main/HRO0101001.do"
+  },
+  {
+    "info": "simpan.go.kr/nsph/index.do"
+  },
+  {
+    "info": "kjgom.or.kr/shop/"
+  },
+  {
+    "info": "gie.kr/"
+  },
+  {
+    "info": "jam.go.kr/web?site_id=19"
+  },
+  {
+    "info": "sanghun.go.kr/pt/participation/corruption/corruptionRegister.do"
+  },
+  {
+    "info": "korea.kr/main.do"
+  },
+  {
+    "info": "hrdkorea.or.kr/"
+  },
+  {
+    "info": "110.go.kr/start.do"
+  },
+  {
+    "info": "kosaf.go.kr/ko/main.do"
+  },
+  {
+    "info": "pac.or.kr/kor/main/?"
+  },
+  {
+    "info": "gwp.or.kr/wus/cmmn/lgn/login.jdo"
+  },
+  {
+    "info": "peace.prkorea.com/main.jsp"
+  },
+  {
+    "info": "kids.cha.go.kr/depart/KidsIndex.action"
+  },
+  {
+    "info": "cha.go.kr/main.html"
+  },
+  {
+    "info": "gov.kr/portal/main"
+  },
+  {
+    "info": "eps.hrdkorea.or.kr/main/intro.do"
+  },
+  {
+    "info": "chamgj.eduhope.net/"
+  },
+  {
+    "info": "greeninet.or.kr/"
+  },
+  {
+    "info": "gjedu.kgeu.org/"
+  },
+  {
+    "info": "kjfta.or.kr/"
+  },
+  {
+    "info": "open.go.kr/com/main/mainView.do"
+  },
+  {
+    "info": "citylib.gwangju.kr/main"
+  },
+  {
+    "info": "jje.go.kr/index.jje"
+  },
+  {
+    "info": "jje.go.kr/jse/index.jje"
+  },
+  {
+    "info": "tamna.or.kr/index.go"
+  },
+  {
+    "info": "cisec.or.kr/"
+  },
+  {
+    "info": "jiei.go.kr/index.jieis"
+  },
+  {
+    "info": "lifelo.or.kr/"
+  },
+  {
+    "info": "sscc.jeju.kr/"
+  },
+  {
+    "info": "jjemuseum.go.kr/"
+  },
+  {
+    "info": "jejulib.or.kr/"
+  },
+  {
+    "info": "jjkids.go.kr/"
+  },
+  {
+    "info": "hsplib.go.kr/"
+  },
+  {
+    "info": "dnlib.or.kr/"
+  },
+  {
+    "info": "sgplib.or.kr/"
+  },
+  {
+    "info": "songaklib.or.kr/"
+  },
+  {
+    "info": "jnlib.go.kr/"
+  },
+  {
+    "info": "textbook114.com/index.jsp"
+  },
+  {
+    "info": "safetyreport.go.kr/api?apiKey=92900008E6A15HN6VJ6V6O2EC8O"
+  },
+  {
+    "info": "sexoffender.go.kr/indexN.nsc"
+  },
+  {
+    "info": "safekorea.go.kr/idsiSFK/neo/main/main.html"
+  },
+  {
+    "info": "afterschool.go.kr/"
+  },
+  {
+    "info": "moe.go.kr/boardCnts/view.do?boardID=333&boardSeq=81674&lev=0&searchType=null&statusYN=W&page=1&s=moe&m=0501&opType=N"
+  },
+  {
+    "info": "43archives.or.kr/main.do"
+  },
+  {
+    "info": "teentalk.or.kr/"
+  },
+  {
+    "info": "kma.go.kr/jeju/html/main/index.jsp"
+  },
+  {
+    "info": "hotline1366.or.kr/default/"
+  },
+  {
+    "info": "jjedu.gnch.or.kr/"
+  },
+  {
+    "info": "jjfta.or.kr/"
+  },
+  {
+    "info": "eduhope.net/"
+  },
+  {
+    "info": "edudonation2021.com/main"
+  },
+  {
+    "info": "jeju1388.or.kr/index.php"
+  },
+  {
+    "info": "hira.or.kr/"
+  },
+  {
+    "info": "nps.or.kr/"
+  },
+  {
+    "info": "khidi.or.kr/kps"
+  },
+  {
+    "info": "kohi.or.kr/"
+  },
+  {
+    "info": "ssis.or.kr/"
+  },
+  {
+    "info": "kofih.org/"
+  },
+  {
+    "info": "kncsw.bokji.net/"
+  },
+  {
+    "info": "nmc.or.kr/"
+  },
+  {
+    "info": "kordi.or.kr/"
+  },
+  {
+    "info": "ncc.re.kr/"
+  },
+  {
+    "info": "koddi.or.kr/"
+  },
+  {
+    "info": "redcross.or.kr/"
+  },
+  {
+    "info": "kcpi.or.kr/"
+  },
+  {
+    "info": "kuksiwon.or.kr/"
+  },
+  {
+    "info": "khealth.or.kr/"
+  },
+  {
+    "info": "k-medi.or.kr/"
+  },
+  {
+    "info": "neca.re.kr/"
+  },
+  {
+    "info": "kihasa.re.kr/"
+  },
+  {
+    "info": "socialservice.or.kr/"
+  },
+  {
+    "info": "dodreamfund.com/"
+  },
+  {
+    "info": "koiha.or.kr/"
+  },
+  {
+    "info": "nikom.or.kr/"
+  },
+  {
+    "info": "oecdkorea.org/"
+  },
+  {
+    "info": "kadoption.or.kr/"
+  },
+  {
+    "info": "koda1458.kr/"
+  },
+  {
+    "info": "kfcpi.or.kr/"
+  },
+  {
+    "info": "kfsp.org/"
+  },
+  {
+    "info": "who.int/"
+  },
+  {
+    "info": "euro.who.int/"
+  },
+  {
+    "info": "dpi.org/"
+  },
+  {
+    "info": "unicef.org/"
+  },
+  {
+    "info": "hhs.gov/"
+  },
+  {
+    "info": "fda.gov/"
+  },
+  {
+    "info": "samhsa.gov/"
+  },
+  {
+    "info": "usphs.gov/"
+  },
+  {
+    "info": "nlm.nih.gov/"
+  },
+  {
+    "info": "drugfree.org/"
+  },
+  {
+    "info": "cancer.org/"
+  },
+  {
+    "info": "childrenscancercenter.org/"
+  },
+  {
+    "info": "cancergroup.com/"
+  },
+  {
+    "info": "pop.org/"
+  },
+  {
+    "info": "ccsa.ca/"
+  },
+  {
+    "info": "mhlw.go.jp/"
+  },
+  {
+    "info": "health.gov.au/"
+  },
+  {
+    "info": "mohw.gov.tw/"
+  },
+  {
+    "info": "ncmh.go.kr/"
+  },
+  {
+    "info": "najumh.go.kr/"
+  },
+  {
+    "info": "bgnmh.go.kr/"
+  },
+  {
+    "info": "cnmh.go.kr/"
+  },
+  {
+    "info": "knmh.go.kr/"
+  },
+  {
+    "info": "sorokdo.go.kr/"
+  },
+  {
+    "info": "nrc.go.kr/"
+  },
+  {
+    "info": "konos.go.kr/"
+  },
+  {
+    "info": "osong.mohw.go.kr/"
+  },
+  {
+    "info": "nmhc.go.kr/"
+  },
+  {
+    "info": "hi.simpan.go.kr/"
+  },
+  {
+    "info": "basicpension.mohw.go.kr/"
+  },
+  {
+    "info": "longtermcare.or.kr/"
+  },
+  {
+    "info": "socialservice.or.kr/index.jsp"
+  },
+  {
+    "info": "ehaneul.go.kr/"
+  },
+  {
+    "info": "129.go.kr/"
+  },
+  {
+    "info": "library.mohw.go.kr/"
+  },
+  {
+    "info": "phi.mw.go.kr/"
+  },
+  {
+    "info": "khiss.go.kr/"
+  },
+  {
+    "info": "health.mw.go.kr/"
+  },
+  {
+    "info": "dreamstart.go.kr/"
+  },
+  {
+    "info": "lic.mohw.go.kr/"
+  },
+  {
+    "info": "ableservice.or.kr/"
+  },
+  {
+    "info": "childcare.go.kr/"
+  },
+  {
+    "info": "bokjiro.go.kr/"
+  },
+  {
+    "info": "ssc.go.kr/"
+  },
+  {
+    "info": "kdca.go.kr/"
+  },
+  {
+    "info": "nih.go.kr/"
+  },
+  {
+    "info": "nqs.kdca.go.kr/"
+  },
+  {
+    "info": "mnth.go.kr/"
+  },
+  {
+    "info": "tbmokpo.go.kr/"
+  },
+  {
+    "info": "kdca.go.kr/npt"
+  },
+  {
+    "info": "nip.kdca.go.kr/"
+  },
+  {
+    "info": "해외감염병now.kr/"
+  },
+  {
+    "info": "nqs.kdca.go.kr/"
+  },
+  {
+    "info": "influenza.kdca.go.kr/"
+  },
+  {
+    "info": "tbzero.kdca.go.kr/"
+  },
+  {
+    "info": "health.kdca.go.kr/"
+  },
+  {
+    "info": "helpline.kdca.go.kr/"
+  },
+  {
+    "info": "knhanes.kdca.go.kr/"
+  },
+  {
+    "info": "chs.kdca.go.kr/"
+  },
+  {
+    "info": "kdca.go.kr/yhs/"
+  },
+  {
+    "info": "nih.go.kr/therpa"
+  },
+  {
+    "info": "library.nih.go.kr/"
+  },
+  {
+    "info": "ophrp.org/"
+  },
+  {
+    "info": "cris.nih.go.kr/"
+  },
+  {
+    "info": "icreat.nih.go.kr/"
+  },
+  {
+    "info": "coda.nih.go.kr/"
+  },
+  {
+    "info": "nih.go.kr/ncsr/nscb"
+  },
+  {
+    "info": "kdca.go.kr/nohas"
+  },
+  {
+    "info": "nih.go.kr/biobank"
+  },
+  {
+    "info": "nccp.kdca.go.kr/"
+  },
+  {
+    "info": "k-arm.go.kr/"
+  },
+  {
+    "info": "kdca.go.kr/injury"
+  },
+  {
+    "info": "cdc.gov/"
+  },
+  {
+    "info": "ecdc.europa.eu/"
+  },
+  {
+    "info": "who.int/"
+  },
+  {
+    "info": "nih.go.jp/"
+  },
+  {
+    "info": "hpa.org.uk/"
+  },
+  {
+    "info": "gov.kr/"
+  },
+  {
+    "info": "president.go.kr/"
+  },
+  {
+    "info": "humanrights.go.kr/"
+  },
+  {
+    "info": "nis.go.kr/"
+  },
+  {
+    "info": "bai.go.kr/"
+  },
+  {
+    "info": "kcc.go.kr/"
+  },
+  {
+    "info": "opm.go.kr/opm/index.do"
+  },
+  {
+    "info": "mpm.go.kr/"
+  },
+  {
+    "info": "moleg.go.kr/"
+  },
+  {
+    "info": "mpva.go.kr/"
+  },
+  {
+    "info": "mfds.go.kr/"
+  },
+  {
+    "info": "ftc.go.kr/"
+  },
+  {
+    "info": "fsc.go.kr/"
+  },
+  {
+    "info": "acrc.go.kr/"
+  },
+  {
+    "info": "nssc.go.kr/"
+  },
+  {
+    "info": "mosf.go.kr/"
+  },
+  {
+    "info": "nts.go.kr/"
+  },
+  {
+    "info": "customs.go.kr/"
+  },
+  {
+    "info": "pps.go.kr/"
+  },
+  {
+    "info": "kostat.go.kr/"
+  },
+  {
+    "info": "msit.go.kr/"
+  },
+  {
+    "info": "moe.go.kr/"
+  },
+  {
+    "info": "mofa.go.kr/"
+  },
+  {
+    "info": "unikorea.go.kr/"
+  },
+  {
+    "info": "moj.go.kr/"
+  },
+  {
+    "info": "spo.go.kr/"
+  },
+  {
+    "info": "mnd.go.kr/"
+  },
+  {
+    "info": "mma.go.kr/"
+  },
+  {
+    "info": "dapa.go.kr/"
+  },
+  {
+    "info": "mois.go.kr/"
+  },
+  {
+    "info": "police.go.kr/"
+  },
+  {
+    "info": "nfa.go.kr/"
+  },
+  {
+    "info": "mcst.go.kr/"
+  },
+  {
+    "info": "cha.go.kr/"
+  },
+  {
+    "info": "mafra.go.kr/"
+  },
+  {
+    "info": "rda.go.kr/"
+  },
+  {
+    "info": "forest.go.kr/"
+  },
+  {
+    "info": "motie.go.kr/"
+  },
+  {
+    "info": "kipo.go.kr/"
+  },
+  {
+    "info": "mohw.go.kr/"
+  },
+  {
+    "info": "me.go.kr/"
+  },
+  {
+    "info": "kma.go.kr/"
+  },
+  {
+    "info": "moel.go.kr/"
+  },
+  {
+    "info": "mogef.go.kr/"
+  },
+  {
+    "info": "molit.go.kr/"
+  },
+  {
+    "info": "saemangeum.go.kr/"
+  },
+  {
+    "info": "naacc.go.kr/"
+  },
+  {
+    "info": "mof.go.kr/"
+  },
+  {
+    "info": "kcg.go.kr/"
+  },
+  {
+    "info": "smba.go.kr/"
+  },
+  {
+    "info": "customs.go.kr/kcs/main.do"
+  },
+  {
+    "info": "unipass.customs.go.kr/"
+  },
+  {
+    "info": "customs.go.kr/foreign/main.do"
+  },
+  {
+    "info": "customs.go.kr/ftaportalkor/main.do"
+  },
+  {
+    "info": "customs.go.kr/call/main.do"
+  },
+  {
+    "info": "unipass.customs.go.kr/ets/index.do"
+  },
+  {
+    "info": "bai.go.kr/proactive/index.do"
+  },
+  {
+    "info": "bai.go.kr/edu/index.do"
+  },
+  {
+    "info": "bai.go.kr/eri/index.do"
+  },
+  {
+    "info": "bai.go.kr/child/index.do"
+  },
+  {
+    "info": "ftc.go.kr/kids/index.do"
+  },
+  {
+    "info": "ftc.go.kr/icps/index.do"
+  },
+  {
+    "info": "lib.ftc.go.kr/"
+  },
+  {
+    "info": "case.ftc.go.kr/"
+  },
+  {
+    "info": "fair.ftc.go.kr/"
+  },
+  {
+    "info": "egroup.go.kr/"
+  },
+  {
+    "info": "mna.ftc.go.kr/uat/uia/loginUsr.do"
+  },
+  {
+    "info": "k.ftc.go.kr/"
+  },
+  {
+    "info": "hado.ftc.go.kr/"
+  },
+  {
+    "info": "survey.ftc.go.kr/"
+  },
+  {
+    "info": "consumer.go.kr/"
+  },
+  {
+    "info": "1372.go.kr/"
+  },
+  {
+    "info": "franchise.ftc.go.kr/"
+  },
+  {
+    "info": "gowith.ftc.go.kr/"
+  },
+  {
+    "info": "franchise.ftc.go.kr/factual/login.do"
+  },
+  {
+    "info": "donotcall.go.kr/"
+  },
+  {
+    "info": "kca.go.kr/"
+  },
+  {
+    "info": "kofair.or.kr/"
+  },
+  {
+    "info": "kfb.or.kr/"
+  },
+  {
+    "info": "kif.re.kr/"
+  },
+  {
+    "info": "kcif.or.kr/"
+  },
+  {
+    "info": "kcredit.or.kr/"
+  },
+  {
+    "info": "epeople.go.kr/"
+  },
+  {
+    "info": "clean.go.kr/"
+  },
+  {
+    "info": "center.simpan.go.kr/nsph/sph810.do"
+  },
+  {
+    "info": "110.go.kr/"
+  },
+  {
+    "info": "acrc.go.kr/edu/"
+  },
+  {
+    "info": "kostat.go.kr/"
+  },
+  {
+    "info": "unitv.unikorea.go.kr/web/"
+  },
+  {
+    "info": "tongilogayo.kr/"
+  },
+  {
+    "info": "nkinfo.unikorea.go.kr/"
+  },
+  {
+    "info": "unibook.unikorea.go.kr/"
+  },
+  {
+    "info": "uniedu.go.kr/uniedu/home/cms/page/uniedu/main.do?mid=UNIEDU&main=true"
+  },
+  {
+    "info": "udbs.unikorea.go.kr/"
+  },
+  {
+    "info": "reunion.unikorea.go.kr/reuni/"
+  },
+  {
+    "info": "dialogue.unikorea.go.kr/ukd/main/userMain/main.do"
+  },
+  {
+    "info": "tongtong.go.kr/"
+  },
+  {
+    "info": "unifuture.unikorea.go.kr/"
+  },
+  {
+    "info": "kidmac.or.kr/"
+  },
+  {
+    "info": "unikorea.go.kr/nkhr/"
+  },
+  {
+    "info": "unilaw.go.kr/Index.do"
+  },
+  {
+    "info": "abductions625.go.kr/index.do"
+  },
+  {
+    "info": "hairo.unikorea.go.kr/"
+  },
+  {
+    "info": "hanaportal.unikorea.go.kr/hanaportal/"
+  },
+  {
+    "info": "unikorea.go.kr/promise/"
+  },
+  {
+    "info": "uniculture.unikorea.go.kr/"
+  },
+  {
+    "info": "sonosa.or.kr/"
+  },
+  {
+    "info": "koreahana.or.kr/"
+  },
+  {
+    "info": "hairo.unikorea.go.kr/"
+  },
+  {
+    "info": "policemuseum.go.kr/"
+  },
+  {
+    "info": "police.go.kr/cmit/index.do"
+  },
+  {
+    "info": "kcsi.go.kr/"
+  },
+  {
+    "info": "police.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1009"
+  },
+  {
+    "info": "cafe.daum.net/securityeducation"
+  },
+  {
+    "info": "blog.naver.com/susa-lab510"
+  },
+  {
+    "info": "police.go.kr/tourPol/main.do"
+  },
+  {
+    "info": "bigdata-policing.kr/"
+  },
+  {
+    "info": "smpa.go.kr/"
+  },
+  {
+    "info": "bspolice.go.kr/"
+  },
+  {
+    "info": "dgpolice.go.kr/"
+  },
+  {
+    "info": "icpolice.go.kr/"
+  },
+  {
+    "info": "gjpolice.go.kr/"
+  },
+  {
+    "info": "djpolice.go.kr/"
+  },
+  {
+    "info": "uspolice.go.kr/"
+  },
+  {
+    "info": "ggpolice.go.kr/"
+  },
+  {
+    "info": "ggbpolice.go.kr/"
+  },
+  {
+    "info": "gwpolice.go.kr/"
+  },
+  {
+    "info": "cbpolice.go.kr/"
+  },
+  {
+    "info": "cnpolice.go.kr/"
+  },
+  {
+    "info": "sjpolice.go.kr/"
+  },
+  {
+    "info": "jbpolice.go.kr/"
+  },
+  {
+    "info": "jnpolice.go.kr/"
+  },
+  {
+    "info": "gbpolice.go.kr/"
+  },
+  {
+    "info": "gnpolice.go.kr/"
+  },
+  {
+    "info": "jjpolice.go.kr/"
+  },
+  {
+    "info": "police.ac.kr/police/index.do"
+  },
+  {
+    "info": "phrdi.go.kr/"
+  },
+  {
+    "info": "cpa.go.kr/cpa2016/"
+  },
+  {
+    "info": "kpia.go.kr/"
+  },
+  {
+    "info": "nph.go.kr/nph/main/main.do"
+  },
+  {
+    "info": "polbokji.ezwel.com/cuser/login/loginForm.ez?url=&clientFamilyNm=null&goUrl="
+  },
+  {
+    "info": "geps.or.kr/index.jsp"
+  },
+  {
+    "info": "pmaa.or.kr/index.do"
+  },
+  {
+    "info": "koroad.or.kr/"
+  },
+  {
+    "info": "sexoffender.go.kr/"
+  },
+  {
+    "info": "klac.or.kr/"
+  },
+  {
+    "info": "bumbang.or.kr/"
+  },
+  {
+    "info": "bupjo.or.kr/"
+  },
+  {
+    "info": "kcva.or.kr/"
+  },
+  {
+    "info": "kgls.or.kr/"
+  },
+  {
+    "info": "koreha.or.kr/"
+  },
+  {
+    "info": "kjpa.or.kr/"
+  },
+  {
+    "info": "cppb.go.kr/"
+  },
+  {
+    "info": "corrections.go.kr/"
+  },
+  {
+    "info": "immigration.go.kr/"
+  },
+  {
+    "info": "trust.go.kr/"
+  },
+  {
+    "info": "visa.go.kr/"
+  },
+  {
+    "info": "talk.lawnorder.go.kr/"
+  },
+  {
+    "info": "main.lawnorder.go.kr/"
+  },
+  {
+    "info": "elib.lawnorder.go.kr/"
+  },
+  {
+    "info": "lawhomedoctor.moj.go.kr/"
+  },
+  {
+    "info": "cyberland.lawnorder.go.kr/"
+  },
+  {
+    "info": "socinet.go.kr/"
+  },
+  {
+    "info": "lawnorder.go.kr/solomondj/index.do"
+  },
+  {
+    "info": "lawnorder.go.kr/solomonbs/index.do"
+  },
+  {
+    "info": "hikorea.go.kr/ses/GeApplInfoR.pt"
+  },
+  {
+    "info": "enotary.moj.go.kr/"
+  },
+  {
+    "info": "9988law.com/"
+  },
+  {
+    "info": "unilaw.go.kr/"
+  },
+  {
+    "info": "hikorea.go.kr/"
+  },
+  {
+    "info": "ptl.kics.go.kr/"
+  },
+  {
+    "info": "logodi.go.kr/"
+  },
+  {
+    "info": "archives.go.kr/"
+  },
+  {
+    "info": "gbmo.go.kr/"
+  },
+  {
+    "info": "ibuk5do.go.kr/"
+  },
+  {
+    "info": "rrncc.go.kr/"
+  },
+  {
+    "info": "ndti.go.kr/"
+  },
+  {
+    "info": "pa.go.kr/"
+  },
+  {
+    "info": "nfs.go.kr/"
+  },
+  {
+    "info": "nirs.go.kr/"
+  },
+  {
+    "info": "ndmi.go.kr/"
+  },
+  {
+    "info": "nia.or.kr/"
+  },
+  {
+    "info": "kdemo.or.kr/"
+  },
+  {
+    "info": "ilje.or.kr/"
+  },
+  {
+    "info": "krila.re.kr/"
+  },
+  {
+    "info": "poba.or.kr/"
+  },
+  {
+    "info": "lofa.or.kr/"
+  },
+  {
+    "info": "klid.or.kr/"
+  },
+  {
+    "info": "erc.re.kr/"
+  },
+  {
+    "info": "koelsa.or.kr/"
+  },
+  {
+    "info": "ecrm.cyber.go.kr/"
+  },
+  {
+    "info": "safe182.go.kr/"
+  },
+  {
+    "info": "minwon.police.go.kr/"
+  },
+  {
+    "info": "gosi.police.go.kr/"
+  },
+  {
+    "info": "onetouch.police.go.kr/"
+  },
+  {
+    "info": "efine.go.kr/main/main.do"
+  },
+  {
+    "info": "ap.police.go.kr/ap/main.do"
+  },
+  {
+    "info": "crims.police.go.kr/"
+  },
+  {
+    "info": "lost112.go.kr/"
+  },
+  {
+    "info": "knpgun.go.kr/main.action"
+  },
+  {
+    "info": "rescue.go.kr/"
+  },
+  {
+    "info": "fire.seoul.go.kr/"
+  },
+  {
+    "info": "119.busan.go.kr/"
+  },
+  {
+    "info": "new119.incheon.go.kr/"
+  },
+  {
+    "info": "daegu.go.kr/119/"
+  },
+  {
+    "info": "gwangju.go.kr/fire/"
+  },
+  {
+    "info": "daejeon.go.kr/dj119/index.do"
+  },
+  {
+    "info": "fire.ulsan.go.kr/"
+  },
+  {
+    "info": "119.sejong.go.kr/"
+  },
+  {
+    "info": "119.gg.go.kr/"
+  },
+  {
+    "info": "119.gg.go.kr/north/"
+  },
+  {
+    "info": "fire.gwd.go.kr/"
+  },
+  {
+    "info": "cb119.chungbuk.go.kr/"
+  },
+  {
+    "info": "cn119.go.kr/index.cn119"
+  },
+  {
+    "info": "sobang.kr/"
+  },
+  {
+    "info": "jnsobang.go.kr/"
+  },
+  {
+    "info": "gb119.go.kr/"
+  },
+  {
+    "info": "gnfire.go.kr/"
+  },
+  {
+    "info": "changwon.go.kr/119/contents.do?mId=0101010000"
+  },
+  {
+    "info": "jeju.go.kr/group/part12.htm"
+  },
+  {
+    "info": "nfa.go.kr/nfsa/"
+  },
+  {
+    "info": "sobang.eseoul.go.kr/"
+  },
+  {
+    "info": "119.busan.go.kr/edu/index"
+  },
+  {
+    "info": "new119.incheon.go.kr/articles/10456"
+  },
+  {
+    "info": "fa.gwangju.go.kr/"
+  },
+  {
+    "info": "119.gg.go.kr/academy"
+  },
+  {
+    "info": "cn119.go.kr/academy/index.cn119"
+  },
+  {
+    "info": "gb119.go.kr/gfa/"
+  },
+  {
+    "info": "gfsa.gwd.go.kr/index.sko"
+  },
+  {
+    "info": "nuch.ac.kr/"
+  },
+  {
+    "info": "gogung.go.kr/"
+  },
+  {
+    "info": "hcs.cha.go.kr/cha/idx/SubIndex.do?mn=HCS"
+  },
+  {
+    "info": "sejong.cha.go.kr/agapp/main/index.do?siteCd=SEJONG"
+  },
+  {
+    "info": "700.cha.go.kr/agapp/main/index.do?siteCd=SH"
+  },
+  {
+    "info": "cha.go.kr/agapp/main/index.do?siteCd=MANIN"
+  },
+  {
+    "info": "royalpalace.go.kr/"
+  },
+  {
+    "info": "cdg.go.kr/"
+  },
+  {
+    "info": "deoksugung.go.kr/"
+  },
+  {
+    "info": "cgg.cha.go.kr/agapp/main/index.do?siteCd=CGG"
+  },
+  {
+    "info": "jm.cha.go.kr/agapp/main/index.do?siteCd=JM"
+  },
+  {
+    "info": "royaltombs.cha.go.kr/cha/idx/SubIndex.do?mn=RT"
+  },
+  {
+    "info": "nihc.go.kr/"
+  },
+  {
+    "info": "nrich.go.kr/"
+  },
+  {
+    "info": "seamuse.go.kr/"
+  },
+  {
+    "info": "royal.cha.go.kr/"
+  },
+  {
+    "info": "chf.or.kr/"
+  },
+  {
+    "info": "overseaschf.or.kr/"
+  },
+  {
+    "info": "ntch.kr/"
+  },
+  {
+    "info": "unesco-ichcap.org/"
+  },
+  {
+    "info": "kofta.org/"
+  },
+  {
+    "info": "chf.or.kr/"
+  },
+  {
+    "info": "overseaschf.or.kr/"
+  },
+  {
+    "info": "ntch.kr/"
+  },
+  {
+    "info": "unesco-ichcap.org/"
+  },
+  {
+    "info": "kofta.org/"
+  },
+  {
+    "info": "rda.go.kr/localOrgAllView.do"
+  },
+  {
+    "info": "nongup.gyeonggi.kr/"
+  },
+  {
+    "info": "ares.gangwon.kr/"
+  },
+  {
+    "info": "ares.chungbuk.kr/"
+  },
+  {
+    "info": "cnnongup.chungnam.go.kr/"
+  },
+  {
+    "info": "jbares.go.kr/"
+  },
+  {
+    "info": "jares.go.kr/"
+  },
+  {
+    "info": "gba.go.kr/"
+  },
+  {
+    "info": "gnares.go.kr/"
+  },
+  {
+    "info": "agri.jeju.go.kr/"
+  },
+  {
+    "info": "agro.seoul.go.kr/"
+  },
+  {
+    "info": "busan.go.kr/nongup"
+  },
+  {
+    "info": "daegu.go.kr/Rural/"
+  },
+  {
+    "info": "agro.incheon.go.kr/"
+  },
+  {
+    "info": "gwangju.go.kr/agri/"
+  },
+  {
+    "info": "daejeon.go.kr/far/index.do"
+  },
+  {
+    "info": "ulsan.go.kr/atc/index"
+  },
+  {
+    "info": "sejong.go.kr/adtc.do"
+  },
+  {
+    "info": "afaci.org:2361/main"
+  },
+  {
+    "info": "kafaci.org:2363/main"
+  },
+  {
+    "info": "kolfaci.org:2362/main"
+  },
+  {
+    "info": "ars.usda.gov/"
+  },
+  {
+    "info": "nsrrc.missouri.edu/"
+  },
+  {
+    "info": "ttu.edu/"
+  },
+  {
+    "info": "osu.edu/"
+  },
+  {
+    "info": "caas.cn/en/"
+  },
+  {
+    "info": "qau.edu.cn/"
+  },
+  {
+    "info": "ybu.edu.cn/"
+  },
+  {
+    "info": "naro.affrc.go.jp/english"
+  },
+  {
+    "info": "tari.gov.tw/english/"
+  },
+  {
+    "info": "pcaf.da.gov.ph/"
+  },
+  {
+    "info": "pcaarrd.dost.gov.ph/"
+  },
+  {
+    "info": "wur.nl/en"
+  },
+  {
+    "info": "unipd.it/en"
+  },
+  {
+    "info": "unimi.it/en"
+  },
+  {
+    "info": "slu.se/en"
+  },
+  {
+    "info": "arastirma.tarimorman.gov.tr/bahridagdas/Sayfalar/EN/AnaSayfa.aspx"
+  },
+  {
+    "info": "gaas.dsl.ge/en"
+  },
+  {
+    "info": "csiro.au/"
+  },
+  {
+    "info": "plantandfood.co.nz/"
+  },
+  {
+    "info": "kalro.org/"
+  },
+  {
+    "info": "ifpri.org/"
+  },
+  {
+    "info": "avrdc.org/"
+  },
+  {
+    "info": "fftc.org/"
+  },
+  {
+    "info": "irri.org/"
+  },
+  {
+    "info": "bioversityinternational.org/"
+  },
+  {
+    "info": "fao.org/"
+  },
+  {
+    "info": "ilri.org/"
+  },
+  {
+    "info": "catie.ac.cr/"
+  },
+  {
+    "info": "cimmyt.org/"
+  },
+  {
+    "info": "icrisat.org/"
+  },
+  {
+    "info": "ifoam.bio/"
+  },
+  {
+    "info": "cipotato.org/"
+  },
+  {
+    "info": "oecd.org/"
+  },
+  {
+    "info": "cgiar.org/"
+  },
+  {
+    "info": "ec.europa.eu/food/ref-labs_en"
+  },
+  {
+    "info": "gov.kr/portal/orgInfo"
+  },
+  {
+    "info": "mafra.go.kr/"
+  },
+  {
+    "info": "forest.go.kr/"
+  },
+  {
+    "info": "af.ac.kr/"
+  },
+  {
+    "info": "naqs.go.kr/"
+  },
+  {
+    "info": "seed.go.kr/"
+  },
+  {
+    "info": "at.or.kr/"
+  },
+  {
+    "info": "rda.go.kr/njh/"
+  },
+  {
+    "info": "epis.or.kr/"
+  },
+  {
+    "info": "me.go.kr/hg/"
+  },
+  {
+    "info": "hrfco.go.kr/"
+  },
+  {
+    "info": "nakdongriver.go.kr/"
+  },
+  {
+    "info": "geumriver.go.kr/"
+  },
+  {
+    "info": "yeongsanriver.go.kr/"
+  },
+  {
+    "info": "kma.go.kr/kma/"
+  },
+  {
+    "info": "nier.go.kr/"
+  },
+  {
+    "info": "ehrd.me.go.kr/"
+  },
+  {
+    "info": "gir.go.kr/"
+  },
+  {
+    "info": "ecc.me.go.kr/"
+  },
+  {
+    "info": "nibr.go.kr/"
+  },
+  {
+    "info": "nics.me.go.kr/"
+  },
+  {
+    "info": "air.go.kr/"
+  },
+  {
+    "info": "me.go.kr/niwdc/web/main.do"
+  },
+  {
+    "info": "kwater.or.kr/"
+  },
+  {
+    "info": "knps.or.kr/portal/main.do"
+  },
+  {
+    "info": "nie.re.kr/"
+  },
+  {
+    "info": "keco.or.kr/"
+  },
+  {
+    "info": "keiti.re.kr/"
+  },
+  {
+    "info": "nnibr.re.kr/"
+  },
+  {
+    "info": "slc.or.kr/"
+  },
+  {
+    "info": "waterway.or.kr/"
+  },
+  {
+    "info": "kwwa.or.kr/"
+  },
+  {
+    "info": "epa.or.kr/"
+  },
+  {
+    "info": "kihs.re.kr/"
+  },
+  {
+    "info": "kacn.org/"
+  },
+  {
+    "info": "kcma.or.kr/"
+  },
+  {
+    "info": "eiaa.or.kr/"
+  },
+  {
+    "info": "npak.or.kr/"
+  },
+  {
+    "info": "koras.org/"
+  },
+  {
+    "info": "aea.or.kr/"
+  },
+  {
+    "info": "kowaps.or.kr/"
+  },
+  {
+    "info": "kiwla.or.kr/"
+  },
+  {
+    "info": "krema.kr/"
+  },
+  {
+    "info": "kwaste.or.kr/"
+  },
+  {
+    "info": "keia.kr/"
+  },
+  {
+    "info": "ecotourism.or.kr/"
+  },
+  {
+    "info": "cwa.or.kr/"
+  },
+  {
+    "info": "kwaste.or.kr/"
+  },
+  {
+    "info": "kei.re.kr/"
+  },
+  {
+    "info": "geca.or.kr/"
+  },
+  {
+    "info": "sgec.uos.ac.kr/"
+  },
+  {
+    "info": "bgec.or.kr/"
+  },
+  {
+    "info": "degec.or.kr/"
+  },
+  {
+    "info": "igec.re.kr/"
+  },
+  {
+    "info": "gjgec.or.kr/"
+  },
+  {
+    "info": "djgec.or.kr/"
+  },
+  {
+    "info": "ugec.or.kr/"
+  },
+  {
+    "info": "ggec.or.kr/"
+  },
+  {
+    "info": "agec.or.kr/"
+  },
+  {
+    "info": "jbgec.or.kr/"
+  },
+  {
+    "info": "jngec.or.kr/"
+  },
+  {
+    "info": "gbgec.or.kr/"
+  },
+  {
+    "info": "gngec.or.kr/"
+  },
+  {
+    "info": "cbgec.or.kr/"
+  },
+  {
+    "info": "cngec.or.kr/"
+  },
+  {
+    "info": "kwgec.kangwon.ac.kr/"
+  },
+  {
+    "info": "jgec.kr/"
+  },
+  {
+    "info": "seoul.go.kr/"
+  },
+  {
+    "info": "busan.go.kr/"
+  },
+  {
+    "info": "daegu.go.kr/"
+  },
+  {
+    "info": "incheon.go.kr/"
+  },
+  {
+    "info": "gwangju.go.kr/"
+  },
+  {
+    "info": "daejeon.go.kr/"
+  },
+  {
+    "info": "ulsan.go.kr/"
+  },
+  {
+    "info": "sejong.go.kr/"
+  },
+  {
+    "info": "gg.go.kr/"
+  },
+  {
+    "info": "provin.gangwon.kr/"
+  },
+  {
+    "info": "chungbuk.go.kr/"
+  },
+  {
+    "info": "chungnam.go.kr/"
+  },
+  {
+    "info": "jeonbuk.go.kr/"
+  },
+  {
+    "info": "jeonnam.go.kr/"
+  },
+  {
+    "info": "gyeongbuk.go.kr/"
+  },
+  {
+    "info": "gyeongnam.go.kr/"
+  },
+  {
+    "info": "jeju.go.kr/"
+  },
+  {
+    "info": "card.kbcard.com/"
+  },
+  {
+    "info": "samsungcard-ad.com/"
+  },
+  {
+    "info": "shinhancard.com"
+  },
+  {
+    "info": "hyundaicard.com"
+  },
+  {
+    "info": "lottecard.co.kr/"
+  },
+  {
+    "info": "pc.wooricard.com/"
+  },
+  {
+    "info": "hanacard.co.kr/"
+  },
+  {
+    "info": "bccard.com/"
+  },
+  {
+    "info": "bok.or.kr/portal/main/main.do"
+  },
+  {
+    "info": "kbstar.com/"
+  },
+  {
+    "info": "shinhan.com/index.jsp"
+  },
+  {
+    "info": "wooribank.com/"
+  },
+  {
+    "info": "hanabank.com/"
+  },
+  {
+    "info": "kbanknow.com/ib20/mnu/PBKMAN000000"
+  },
+  {
+    "info": "kakaobank.com/"
+  },
+  {
+    "info": "tossbank.com/"
+  },
+  {
+    "info": "kdb.co.kr/index.jsp"
+  },
+  {
+    "info": "ibk.co.kr/"
+  },
+  {
+    "info": "koreaexim.go.kr/site/main/index001"
+  },
+  {
+    "info": "banking.nonghyup.com/nhbank.html"
+  },
+  {
+    "info": "suhyup-bank.com/"
+  },
+  {
+    "info": "dgb.co.kr/dgb_ebz_main.jsp"
+  },
+  {
+    "info": "busanbank.co.kr/ib20/mnu/BHP00001"
+  },
+  {
+    "info": "knbank.co.kr/ib20/mnu/BHP000000000001"
+  },
+  {
+    "info": "pib.kjbank.com/ib20/mnu/BPB0000000001"
+  },
+  {
+    "info": "jbbank.co.kr/"
+  },
+  {
+    "info": "e-jejubank.com/JeJuBankInfo.do"
+  },
+  {
+    "info": "nonghyup.com/main/psniMain.do"
+  },
+  {
+    "info": "nfcf.or.kr/forest/user.tdf?a=user.index.IndexApp&c=1006&mc=KOR"
+  },
+  {
+    "info": "kfcc.co.kr/"
+  },
+  {
+    "info": "cu.co.kr/"
+  },
+  {
+    "info": "goryosb.co.kr/main.act"
+  },
+  {
+    "info": "kukje.ibs.fsb.or.kr/main.act"
+  },
+  {
+    "info": "kuemhwabank.co.kr/main.act"
+  },
+  {
+    "info": "nybank.co.kr/main.act"
+  },
+  {
+    "info": "daemyungbank.co.kr/main.act"
+  },
+  {
+    "info": "debecbank.co.kr/main.act"
+  },
+  {
+    "info": "bank.daishin.com/"
+  },
+  {
+    "info": "daeabank.com/main.act"
+  },
+  {
+    "info": "d-banks.co.kr/main.act"
+  },
+  {
+    "info": "daehanbank.co.kr/main.act"
+  },
+  {
+    "info": "doublebank.co.kr/main.act"
+  },
+  {
+    "info": "thekbank.co.kr/main/main.do"
+  },
+  {
+    "info": "dysbank.com/main.act"
+  },
+  {
+    "info": "dongwonjeilbank.kr/"
+  },
+  {
+    "info": "dreamsb.com/main.act"
+  },
+  {
+    "info": "raonsb.co.kr/main.act"
+  },
+  {
+    "info": "samilbank.co.kr/main.act"
+  },
+  {
+    "info": "moaloan.co.kr/lgd/apply_loan/LGD_WCL_DT3_010.do"
+  },
+  {
+    "info": "mkb.co.kr/main.act"
+  },
+  {
+    "info": "barosavings.com/main.act"
+  },
+  {
+    "info": "bulimbank.co.kr/main.act"
+  },
+  {
+    "info": "samjungsavingsbank.co.kr/main.act"
+  },
+  {
+    "info": "samhosb.co.kr/main.act"
+  },
+  {
+    "info": "m.sangsanginsb.com/cbm00101ma00.view"
+  },
+  {
+    "info": "sangsanginplussb.com/service/main/index.jsp"
+  },
+  {
+    "info": "m.serambank.co.kr/"
+  },
+  {
+    "info": "centralbank.co.kr/main.act"
+  },
+  {
+    "info": "soulbrainsb.co.kr/"
+  },
+  {
+    "info": "bank.smartbank.co.kr/main.act"
+  },
+  {
+    "info": "skysb.co.kr/main.act"
+  },
+  {
+    "info": "estarbank.co.kr/main.act"
+  },
+  {
+    "info": "m.shinhansavings.com/main"
+  },
+  {
+    "info": "asanbank.co.kr/main.act"
+  },
+  {
+    "info": "angukbank.co.kr/main.act"
+  },
+  {
+    "info": "anyangbank.co.kr/main.act"
+  },
+  {
+    "info": "acuoncapital.com/main.do"
+  },
+  {
+    "info": "yjbank.co.kr/"
+  },
+  {
+    "info": "yegaramsb.co.kr/home"
+  },
+  {
+    "info": "osungbank.co.kr/main.act"
+  },
+  {
+    "info": "o2banking.com/main.act"
+  },
+  {
+    "info": "wooleebank.co.kr/main.act"
+  },
+  {
+    "info": "m.woorisavingsbank.com/main/main.do"
+  },
+  {
+    "info": "welcomebank.co.kr/ib20/mnu/IBN000000000"
+  },
+  {
+    "info": "kusb.co.kr/contents/main/"
+  },
+  {
+    "info": "yuantasavings.co.kr/main.act"
+  },
+  {
+    "info": "eugenebank.com/main.do"
+  },
+  {
+    "info": "ycbank.co.kr/main.act"
+  },
+  {
+    "info": "insungsavingsbank.co.kr/main.act"
+  },
+  {
+    "info": "incheonbank.com/main.act"
+  },
+  {
+    "info": "choeunbank.com/"
+  },
+  {
+    "info": "chbank.net/"
+  },
+  {
+    "info": "jinjubank.net/main.act"
+  },
+  {
+    "info": "charmbank.co.kr/mainView.do"
+  },
+  {
+    "info": "cheongjubank.com/main.act"
+  },
+  {
+    "info": "kiwoom.ibs.fsb.or.kr/main.act"
+  },
+  {
+    "info": "kiwoomyesbank.com/main.act"
+  },
+  {
+    "info": "m.pepperbank.kr/index.html"
+  },
+  {
+    "info": "ptbank.co.kr/main.act"
+  },
+  {
+    "info": "prsb.co.kr/prsb/prhtml?w2xPath=/w2/itb/main.xml&menu=3"
+  },
+  {
+    "info": "hanasavings.com/"
+  },
+  {
+    "info": "sb.koreainvestment.com/ib20/mnu/hom00001"
+  },
+  {
+    "info": "hs.ibs.fsb.or.kr/main.act"
+  },
+  {
+    "info": "hanwhasbank.com/main.act"
+  },
+  {
+    "info": "hkbanking.co.kr/"
+  },
+  {
+    "info": "m.bnksb.com/"
+  },
+  {
+    "info": "cksavingsbank.co.kr/main.act"
+  },
+  {
+    "info": "idbsb.com/websquare/websquare.jsp?w2xPath=/w2/itb/main.xml"
+  },
+  {
+    "info": "dhsavingsbank.co.kr/main.act"
+  },
+  {
+    "info": "essb.co.kr/"
+  },
+  {
+    "info": "ibksb.co.kr/"
+  },
+  {
+    "info": "jt-bank.co.kr/"
+  },
+  {
+    "info": "jtchinae-bank.co.kr/usr/index.do"
+  },
+  {
+    "info": "kbsavings.com/"
+  },
+  {
+    "info": "mssb.co.kr/main.act"
+  },
+  {
+    "info": "nhsavingsbank.co.kr/"
+  },
+  {
+    "info": "oksavingsbank.com/#/main"
+  },
+  {
+    "info": "osb.co.kr/ib20/mnu/HOM00001"
+  },
+  {
+    "info": "sbisb.co.kr/index.jsp"
+  },
+  {
+    "info": "hisntm.com/kor/main.html"
+  },
+  {
+    "info": "ibks.com/main.do"
+  },
+  {
+    "info": "myasset.com/myasset/main/index.cmd"
+  },
+  {
+    "info": "kbsec.com/go.able"
+  },
+  {
+    "info": "securities.miraeasset.com/"
+  },
+  {
+    "info": "samsungpop.com/"
+  },
+  {
+    "info": "securities.koreainvestment.com/main/Main.jsp"
+  },
+  {
+    "info": "nhqv.com/"
+  },
+  {
+    "info": "iprovest.com/index.jsp"
+  },
+  {
+    "info": "event-hi-ib.com/"
+  },
+  {
+    "info": "hmsec.com/"
+  },
+  {
+    "info": "www1.kiwoom.com/h/main"
+  },
+  {
+    "info": "ebestsec.co.kr/"
+  },
+  {
+    "info": "sks.co.kr/main/index.cmd"
+  },
+  {
+    "info": "daishin.com/g.ds?m=4027&p=3979&v=2983"
+  },
+  {
+    "info": "hanwhawm.com/main/main/index.cmd"
+  },
+  {
+    "info": "hanaw.com/main/main/index.cmd"
+  },
+  {
+    "info": "shinhaninvest.com/index.html"
+  },
+  {
+    "info": "db-fi.com/main/main.do"
+  },
+  {
+    "info": "m.eugenefn.com/main.do"
+  },
+  {
+    "info": "home.imeritz.com/index.jsp"
+  },
+  {
+    "info": "bookook.co.kr/"
+  },
+  {
+    "info": "shinyoung.com/?page=00000"
+  },
+  {
+    "info": "capefn.com/index.jsp"
+  },
+  {
+    "info": "ingang.hackersut.com"
+  },
+  {
+    "info": "nineschool.co.kr/"
+  },
+  {
+    "info": "mid.milkt.co.kr/"
+  },
+  {
+    "info": "mbest.co.kr"
+  },
+  {
+    "info": "milkt.co.kr"
+  },
+  {
+    "info": "home-learn.co.kr"
+  },
+  {
+    "info": "nyjskyedu.conects.com/"
+  },
+  {
+    "info": "soobakc.com/"
+  },
+  {
+    "info": "mid.home-learn.co.kr"
+  },
+  {
+    "info": "megastudy.net/"
+  },
+  {
+    "info": "visangedu.com/"
+  },
+  {
+    "info": "hackers.com"
+  },
+  {
+    "info": "champ.hackers.com"
+  },
+  {
+    "info": "psat.hackers.com"
+  },
+  {
+    "info": "gosi.hackers.com"
+  },
+  {
+    "info": "egosi.hackers.com"
+  },
+  {
+    "info": "police.hackers.com"
+  },
+  {
+    "info": "fire.hackers.com"
+  },
+  {
+    "info": "eland.hackers.com"
+  },
+  {
+    "info": "fn.hackers.com"
+  },
+  {
+    "info": "history.hackers.com"
+  },
+  {
+    "info": "pass.hackers.com"
+  },
+  {
+    "info": "house.hackers.com"
+  },
+  {
+    "info": "ecpa.hackers.com/"
+  },
+  {
+    "info": "ejob.hackers.com"
+  },
+  {
+    "info": "public.hackers.com"
+  },
+  {
+    "info": "hackersut.com"
+  },
+  {
+    "info": "gohackers.com"
+  },
+  {
+    "info": "haksa2080.com"
+  },
+  {
+    "info": "kangnam.dshw.co.kr/"
+  },
+  {
+    "info": "mimacstudy.com"
+  },
+  {
+    "info": "pagoda21.com"
+  },
+  {
+    "info": "ybmedu.com"
+  },
+  {
+    "info": "eduwill.net"
+  },
+  {
+    "info": "siwonschool.com"
+  },
+  {
+    "info": "cls1.edunet.net"
+  },
+  {
+    "info": "cls2.edunet.net"
+  },
+  {
+    "info": "cls3.edunet.net"
+  },
+  {
+    "info": "cls4.edunet.net"
+  },
+  {
+    "info": "cls5.edunet.net"
+  },
+  {
+    "info": "cls6.edunet.net"
+  },
+  {
+    "info": "cls7.edunet.net"
+  },
+  {
+    "info": "cls8.edunet.net"
+  },
+  {
+    "info": "cls9.edunet.net"
+  },
+  {
+    "info": "cls10.edunet.net"
+  },
+  {
+    "info": "cls11.edunet.net"
+  },
+  {
+    "info": "cls12.edunet.net"
+  },
+  {
+    "info": "cls13.edunet.net"
+  },
+  {
+    "info": "cls14.edunet.net"
+  },
+  {
+    "info": "cls15.edunet.net"
+  },
+  {
+    "info": "cls16.edunet.net"
+  },
+  {
+    "info": "cls17.edunet.net"
+  },
+  {
+    "info": "cls18.edunet.net"
+  },
+  {
+    "info": "cls19.edunet.net"
+  },
+  {
+    "info": "cls20.edunet.net"
+  },
+  {
+    "info": "oc.ebssw.kr"
+  },
+  {
+    "info": "stsso.edunet.net"
+  },
+  {
+    "info": "rang.edunet.net"
+  },
+  {
+    "info": "oc1.ebssw.kr"
+  },
+  {
+    "info": "oc2.ebssw.kr"
+  },
+  {
+    "info": "oc3.ebssw.kr"
+  },
+  {
+    "info": "oc4.ebssw.kr"
+  },
+  {
+    "info": "oc5.ebssw.kr"
+  },
+  {
+    "info": "oc6.ebssw.kr"
+  },
+  {
+    "info": "oc7.ebssw.kr"
+  },
+  {
+    "info": "oc8.ebssw.kr"
+  },
+  {
+    "info": "oc9.ebssw.kr"
+  },
+  {
+    "info": "oc10.ebssw.kr"
+  },
+  {
+    "info": "oc11.ebssw.kr"
+  },
+  {
+    "info": "oc12.ebssw.kr"
+  },
+  {
+    "info": "oc13.ebssw.kr"
+  },
+  {
+    "info": "oc14.ebssw.kr"
+  },
+  {
+    "info": "oc15.ebssw.kr"
+  },
+  {
+    "info": "oc16.ebssw.kr"
+  },
+  {
+    "info": "oc17.ebssw.kr"
+  },
+  {
+    "info": "oc18.ebssw.kr"
+  },
+  {
+    "info": "oc19.ebssw.kr"
+  },
+  {
+    "info": "oc20.ebssw.kr"
+  },
+  {
+    "info": "stsso1.edunet.net"
+  },
+  {
+    "info": "stsso2.edunet.net"
+  },
+  {
+    "info": "stsso3.edunet.net"
+  },
+  {
+    "info": "stsso4.edunet.net"
+  },
+  {
+    "info": "stsso5.edunet.net"
+  },
+  {
+    "info": "stsso6.edunet.net"
+  },
+  {
+    "info": "stsso7.edunet.net"
+  },
+  {
+    "info": "stsso8.edunet.net"
+  },
+  {
+    "info": "stsso9.edunet.net"
+  },
+  {
+    "info": "stsso10.edunet.net"
+  },
+  {
+    "info": "stsso11.edunet.net"
+  },
+  {
+    "info": "stsso12.edunet.net"
+  },
+  {
+    "info": "stsso13.edunet.net"
+  },
+  {
+    "info": "stsso14.edunet.net"
+  },
+  {
+    "info": "stsso15.edunet.net"
+  },
+  {
+    "info": "stsso16.edunet.net"
+  },
+  {
+    "info": "stsso17.edunet.net"
+  },
+  {
+    "info": "stsso18.edunet.net"
+  },
+  {
+    "info": "stsso19.edunet.net"
+  },
+  {
+    "info": "stsso20.edunet.net"
+  }
+]
